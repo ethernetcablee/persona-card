@@ -40,11 +40,10 @@ img {
 .columnA {
     width: 45%;
     border: 2px solid #2c1a1a;
-    width: 300px;
     padding: 25px;
     text-align: center;
     background-color: lightgreen;
-    opacity: 60%;
+    opacity: 0.8;
 
 
 }
@@ -52,11 +51,10 @@ img {
 .columnB {
     width: 45%;
     border: 2px solid #2c1a1a;
-    width: 300px;
     padding: 25px;
     text-align: center;
     background-color: rgb(252, 165, 180);
-    opacity: 60%;
+    opacity: 0.8;
 }
 
 
